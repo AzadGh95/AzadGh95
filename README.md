@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some stats and to brag about:
 
 - 👯 I’m looking to collaborate on a remote back-end developer position
 - 📫 How to reach me: a.ghassemi92@gmail.com
